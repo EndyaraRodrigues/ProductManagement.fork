@@ -3,4 +3,5 @@
   <Project Path="ProductManagement.Data/ProductManagement.Data.csproj" />
   <Project Path="ProductManagement.Domain/ProductManagement.Domain.csproj" />
   <Project Path="ProductManagementUI/ProductManagementUI.csproj" />
+  <Project Path="TestxUnit.ProductManagement/TestxUnit.ProductManagement.csproj" Id="d33f91b0-6461-415e-9f21-1db43f25dc8e" />
 </Solution>
